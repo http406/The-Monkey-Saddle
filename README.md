@@ -10,17 +10,7 @@ This surface is useful in **differential geometry**, **computational graphics**,
 ### **Understanding the Equation Used in Your Code**
 In the code, the parametric equation used to define the **Monkey Saddle** is:
 
-\[
-x = u \cdot \cos(v)
-\]
-
-\[
-y = u \cdot \sin(v)
-\]
-
-\[
-z = u^3 - 3u \cdot v^2
-\]
+![Image](https://github.com/user-attachments/assets/b8869835-58fc-4556-bd11-9a79b417165e)
 
 #### **Breaking It Down:**
 - \( u \) and \( v \) are parameters that define the surface.  
