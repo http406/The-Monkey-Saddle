@@ -25,9 +25,9 @@ z = u^3 - 3u \cdot v^2
 #### **Breaking It Down:**
 - \( u \) and \( v \) are parameters that define the surface.  
 - The **\( x \) and \( y \) equations** define a circular pattern where the radius is proportional to \( u \), making the shape expand outward in a circular form.  
-- The **\( z \)-coordinate** is defined by \( u³ - 3u v² \), which creates the saddle-like shape by introducing curvature.  
+- The **\( z \)-coordinate** is defined by \( u³ - 3uv² \), which creates the saddle-like shape by introducing curvature.  
   - The term \( u³ \) makes the shape rise and fall as \( u \) changes.  
-  - The term \( -3u v² \) ensures that the surface has multiple dips and peaks, creating the "monkey saddle" effect.
+  - The term \( -3uv² \) ensures that the surface has multiple dips and peaks, creating the "monkey saddle" effect.
 
 ---
 
